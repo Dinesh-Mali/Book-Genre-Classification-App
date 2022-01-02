@@ -13,4 +13,4 @@ This App predicts-classifies a genre of a book based on its summary using ML mod
 
 5) Pickle the model and unpickle the model while integrating with the UI which is made using flask.
 
-6) deploy the model on AWS EC2 instance.
+6) deploy the model on AWS EC2 instance. 
